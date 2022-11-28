@@ -1,0 +1,4 @@
+transaction_id,account_number,transaction_date,transaction_type,transaction_amount
+84402,200234,23/09/2022-08:45,D,5000.125
+6985700,2590125,24/09/2022-08:12,C,10000.125
+120005,1022256,24/11/2022-06:45,C,120000.158
